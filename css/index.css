@@ -244,7 +244,7 @@ header .hotline u {
     width: 30px;
     height: 30px;
     text-decoration: none;
-    background: url(../Images/icons.png) no-repeat;
+    background: url(../images/icons.png) no-repeat;
     -webkit-transition: all .2s ease-in-out 0s;
     -moz-transition: all .2s ease-in-out 0s;
     -ms-transition: all .2s ease-in-out 0s;
@@ -331,7 +331,7 @@ div.welcome {
     position: fixed;
     width: 100%;
     height: 100%;
-    background: url(../Images/welcome.jpg) 30% 80%;
+    background: url(../images/welcome.jpg) 30% 80%;
     background-color: White;
     -moz-background-size: cover;
     background-size: cover;
@@ -358,7 +358,7 @@ div.welcome p {
     color: #2fd0b5;
     font-size: 20px;
     text-align: center;
-    background: url(../Images/welcome_words.png) no-repeat;
+    background: url(../images/welcome_words.png) no-repeat;
     overflow: hidden;
 }
 
@@ -381,7 +381,7 @@ section {
 }
 
 .video .swiper-container .nth1 {
-    background: url(../Images/wallpaper1_1.jpg) 50% 35%;
+    background: url(../images/wallpaper1_1.jpg) 50% 35%;
     -moz-background-size: cover;
     background-size: cover;
 }
@@ -402,7 +402,7 @@ section {
     left: -300px;
     width: 123px;
     height: 231px;
-    background: url(../Images/words.png) no-repeat top right;
+    background: url(../images/words.png) no-repeat top right;
     -moz-opacity: 0;
     opacity: 0;
     -webkit-transition: all .5s ease-in-out 0s;
@@ -447,7 +447,7 @@ section {
     width: 339px;
     height: 66px;
     margin-bottom: 5px;
-    background: url(../Images/words.png) no-repeat;
+    background: url(../images/words.png) no-repeat;
 }
 
 .video .swiper-container .nth1 .box .right p {
@@ -460,7 +460,7 @@ section {
     position: absolute;
     width: 400%;
     height: 1800px;
-    background: url(../Images/swiper_nth1_shade.png) no-repeat center top;
+    background: url(../images/swiper_nth1_shade.png) no-repeat center top;
     -moz-background-size: cover;
     background-size: cover;
     -webkit-transition: width .8s ease-in-out .3s;
@@ -506,7 +506,7 @@ section {
 }
 
 .video .swiper-container .nth2 {
-    background: url(../Images/wallpaper1_2.jpg) 50% 20%;
+    background: url(../images/wallpaper1_2.jpg) 50% 20%;
     -moz-background-size: cover;
     background-size: cover;
 }
@@ -533,7 +533,7 @@ section {
     width: 320px;
     height: 65px;
     margin: 10px 0px 8px 0px;
-    background: url(../Images/words.png) no-repeat 0px -72px;
+    background: url(../images/words.png) no-repeat 0px -72px;
 }
 
 .video .swiper-container .nth2 .box p {
@@ -565,7 +565,7 @@ section {
 }
 
 .video .swiper-container .nth3 {
-    background: url(../Images/wallpaper1_3.jpg) 50% center;
+    background: url(../images/wallpaper1_3.jpg) 50% center;
     -moz-background-size: cover;
     background-size: cover;
 }
@@ -601,7 +601,7 @@ section {
     margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 10px;
-    background: url(../Images/words.png) no-repeat 0px -219px;
+    background: url(../images/words.png) no-repeat 0px -219px;
     -moz-opacity: 0;
     opacity: 0;
     -webkit-transition: all .3s ease-in-out 0s;
@@ -638,7 +638,7 @@ section {
 }
 
 .video .swiper-container .nth4 {
-    background: url(../Images/wallpaper1_4.jpg) 50% top;
+    background: url(../images/wallpaper1_4.jpg) 50% top;
     -moz-background-size: cover;
     background-size: cover;
 }
@@ -680,7 +680,7 @@ section {
     height: 64px;
     margin: 0 auto;
     margin-top: 15px;
-    background: url(../Images/words.png) no-repeat 0px -147px;
+    background: url(../images/words.png) no-repeat 0px -147px;
 }
 
 .video .swiper-container .nth4 .box .bottom {
@@ -791,17 +791,17 @@ section {
     margin: 0 auto;
     width: 47px;
     height: 47px;
-    background: url(../Images/icons.png) no-repeat 0px -60px;
+    background: url(../images/icons.png) no-repeat 0px -60px;
     cursor: pointer;
     z-index: 99;
 }
 
 .video .innerBox a.movedown:hover {
-    background: url(../Images/icons.png) no-repeat 0px -112px;
+    background: url(../images/icons.png) no-repeat 0px -112px;
 }
 
 section.business {
-    background: url(../Images/wallpaper2.jpg) 50% bottom;
+    background: url(../images/wallpaper2.jpg) 50% bottom;
 }
 
 .business .box {
@@ -837,7 +837,7 @@ section.business {
     margin-bottom: 20px;
     width: 320px;
     height: 31px;
-    background: url(../Images/words.png) no-repeat 0px -294px;
+    background: url(../images/words.png) no-repeat 0px -294px;
 }
 
 .business .box .caption span {
@@ -854,7 +854,7 @@ section.business {
     width: 200px;
     height: 300px;
     margin: 0 8px;
-    background: url(../Images/bg_green.png) no-repeat 0px 400px;
+    background: url(../images/bg_green.png) no-repeat 0px 400px;
     overflow: hidden;
 }
 
@@ -868,27 +868,27 @@ section.business {
 
 .business .box ul.items li.pc i {
     width: 69px;
-    background: url(../Images/words.png) no-repeat -245px -357px;
+    background: url(../images/words.png) no-repeat -245px -357px;
 }
 
 .business .box ul.items li.mobi i {
     width: 64px;
-    background: url(../Images/words.png) no-repeat -416px -291px;
+    background: url(../images/words.png) no-repeat -416px -291px;
 }
 
 .business .box ul.items li.sys i {
     width: 76px;
-    background: url(../Images/words.png) no-repeat -415px -362px;
+    background: url(../images/words.png) no-repeat -415px -362px;
 }
 
 .business .box ul.items li.app i {
     width: 74px;
-    background: url(../Images/words.png) no-repeat -244px -439px;
+    background: url(../images/words.png) no-repeat -244px -439px;
 }
 
 .business .box ul.items li.host i {
     width: 79px;
-    background: url(../Images/words.png) no-repeat -420px -439px;
+    background: url(../images/words.png) no-repeat -420px -439px;
 }
 
 .business .box ul.items li u {
@@ -897,7 +897,7 @@ section.business {
     width: 156px;
     height: 156px;
     margin-left: 22px;
-    background: url(../Images/words.png) no-repeat 0px -363px;
+    background: url(../images/words.png) no-repeat 0px -363px;
     -webkit-transition: all .5s ease-in-out 0s;
     -moz-transition: all .5s ease-in-out 0s;
     -ms-transition: all .5s ease-in-out 0s;
@@ -957,23 +957,23 @@ section.business {
 }
 
 .business .box ul.items li.pc:hover i {
-    background: url(../Images/words.png) no-repeat -168px -357px;
+    background: url(../images/words.png) no-repeat -168px -357px;
 }
 
 .business .box ul.items li.mobi:hover i {
-    background: url(../Images/words.png) no-repeat -337px -291px;
+    background: url(../images/words.png) no-repeat -337px -291px;
 }
 
 .business .box ul.items li.sys:hover i {
-    background: url(../Images/words.png) no-repeat -327px -362px;
+    background: url(../images/words.png) no-repeat -327px -362px;
 }
 
 .business .box ul.items li.app:hover i {
-    background: url(../Images/words.png) no-repeat -164px -439px;
+    background: url(../images/words.png) no-repeat -164px -439px;
 }
 
 .business .box ul.items li.host:hover i {
-    background: url(../Images/words.png) no-repeat -335px -439px;
+    background: url(../images/words.png) no-repeat -335px -439px;
 }
 
 .business .box ul.items li:hover u.cl {
@@ -1008,11 +1008,11 @@ section.business {
     margin-top: 45px;
     width: 315px;
     height: 29px;
-    background: url(../Images/words.png) no-repeat 0px -333px;
+    background: url(../images/words.png) no-repeat 0px -333px;
 }
 
 section.cases {
-    background: url(../Images/wallpaper3.jpg);
+    background: url(../images/wallpaper3.jpg);
 }
 
 .cases .box {
@@ -1047,7 +1047,7 @@ section.cases {
     margin-bottom: 20px;
     width: 129px;
     height: 37px;
-    background: url(../Images/words.png) no-repeat 0px -528px;
+    background: url(../images/words.png) no-repeat 0px -528px;
 }
 
 .cases .box .caption span {
@@ -1108,7 +1108,7 @@ section.cases {
     margin-top: 78px;
     width: 44px;
     height: 44px;
-    background: url(../Images/icons.png) no-repeat 0px -168px;
+    background: url(../images/icons.png) no-repeat 0px -168px;
 }
 
 .cases .box .swiper-container.items .swiper-slide p {
@@ -1250,7 +1250,7 @@ section.cases {
 }
 
 section.clients {
-    background: url(../Images/wallpaper4.jpg) 50% 90%;
+    background: url(../images/wallpaper4.jpg) 50% 90%;
 }
 
 .clients .box {
@@ -1285,7 +1285,7 @@ section.clients {
     margin-bottom: 20px;
     width: 299px;
     height: 37px;
-    background: url(../Images/words.png) no-repeat -152px -528px;
+    background: url(../images/words.png) no-repeat -152px -528px;
 }
 
 .clients .box .caption span {
@@ -1313,7 +1313,7 @@ section.clients {
 
 .clients .box ul.items li.cctv {
     top: 600px;
-    background: url(../Images/clients.png) no-repeat;
+    background: url(../images/clients.png) no-repeat;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1322,7 +1322,7 @@ section.clients {
 }
 
 .clients .box ul.items li.cctv.active {
-    background: url(../Images/clients.png) no-repeat 0px -150px;
+    background: url(../images/clients.png) no-repeat 0px -150px;
 }
 
 .clients.active .box ul.items li.cctv {
@@ -1331,7 +1331,7 @@ section.clients {
 
 .clients .box ul.items li.unicom {
     top: -400px;
-    background: url(../Images/clients.png) no-repeat -230px 0px;
+    background: url(../images/clients.png) no-repeat -230px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1340,7 +1340,7 @@ section.clients {
 }
 
 .clients .box ul.items li.unicom.active {
-    background: url(../Images/clients.png) no-repeat -230px -150px;
+    background: url(../images/clients.png) no-repeat -230px -150px;
 }
 
 .clients.active .box ul.items li.unicom {
@@ -1349,7 +1349,7 @@ section.clients {
 
 .clients .box ul.items li.tsinghua {
     top: 600px;
-    background: url(../Images/clients.png) no-repeat -460px 0px;
+    background: url(../images/clients.png) no-repeat -460px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1358,7 +1358,7 @@ section.clients {
 }
 
 .clients .box ul.items li.tsinghua.active {
-    background: url(../Images/clients.png) no-repeat -460px -150px;
+    background: url(../images/clients.png) no-repeat -460px -150px;
 }
 
 .clients.active .box ul.items li.tsinghua {
@@ -1367,7 +1367,7 @@ section.clients {
 
 .clients .box ul.items li.cas {
     top: -400px;
-    background: url(../Images/clients.png) no-repeat -690px 0px;
+    background: url(../images/clients.png) no-repeat -690px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1376,7 +1376,7 @@ section.clients {
 }
 
 .clients .box ul.items li.cas.active {
-    background: url(../Images/clients.png) no-repeat -690px -150px;
+    background: url(../images/clients.png) no-repeat -690px -150px;
 }
 
 .clients.active .box ul.items li.cas {
@@ -1385,7 +1385,7 @@ section.clients {
 
 .clients .box ul.items li.sipo {
     top: 600px;
-    background: url(../Images/clients.png) no-repeat -920px 0px;
+    background: url(../images/clients.png) no-repeat -920px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1394,7 +1394,7 @@ section.clients {
 }
 
 .clients .box ul.items li.sipo.active {
-    background: url(../Images/clients.png) no-repeat -920px -150px;
+    background: url(../images/clients.png) no-repeat -920px -150px;
 }
 
 .clients.active .box ul.items li.sipo {
@@ -1403,7 +1403,7 @@ section.clients {
 
 .clients .box ul.items li.apple {
     top: 450px;
-    background: url(../Images/clients.png) no-repeat -1150px 0px;
+    background: url(../images/clients.png) no-repeat -1150px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1412,7 +1412,7 @@ section.clients {
 }
 
 .clients .box ul.items li.apple.active {
-    background: url(../Images/clients.png) no-repeat -1150px -150px;
+    background: url(../images/clients.png) no-repeat -1150px -150px;
 }
 
 .clients.active .box ul.items li.apple {
@@ -1421,7 +1421,7 @@ section.clients {
 
 .clients .box ul.items li.das {
     top: -550px;
-    background: url(../Images/clients.png) no-repeat -1380px 0px;
+    background: url(../images/clients.png) no-repeat -1380px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1430,7 +1430,7 @@ section.clients {
 }
 
 .clients .box ul.items li.das.active {
-    background: url(../Images/clients.png) no-repeat -1380px -150px;
+    background: url(../images/clients.png) no-repeat -1380px -150px;
 }
 
 .clients.active .box ul.items li.das {
@@ -1439,7 +1439,7 @@ section.clients {
 
 .clients .box ul.items li.hunantv {
     top: 450px;
-    background: url(../Images/clients.png) no-repeat -1610px 0px;
+    background: url(../images/clients.png) no-repeat -1610px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1448,7 +1448,7 @@ section.clients {
 }
 
 .clients .box ul.items li.hunantv.active {
-    background: url(../Images/clients.png) no-repeat -1610px -150px;
+    background: url(../images/clients.png) no-repeat -1610px -150px;
 }
 
 .clients.active .box ul.items li.hunantv {
@@ -1457,7 +1457,7 @@ section.clients {
 
 .clients .box ul.items li.sino {
     top: -550px;
-    background: url(../Images/clients.png) no-repeat -1840px 0px;
+    background: url(../images/clients.png) no-repeat -1840px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1466,7 +1466,7 @@ section.clients {
 }
 
 .clients .box ul.items li.sino.active {
-    background: url(../Images/clients.png) no-repeat -1840px -150px;
+    background: url(../images/clients.png) no-repeat -1840px -150px;
 }
 
 .clients.active .box ul.items li.sino {
@@ -1475,7 +1475,7 @@ section.clients {
 
 .clients .box ul.items li.report {
     top: 450px;
-    background: url(../Images/clients.png) no-repeat -2070px 0px;
+    background: url(../images/clients.png) no-repeat -2070px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1484,7 +1484,7 @@ section.clients {
 }
 
 .clients .box ul.items li.report.active {
-    background: url(../Images/clients.png) no-repeat -2070px -150px;
+    background: url(../images/clients.png) no-repeat -2070px -150px;
 }
 
 .clients.active .box ul.items li.report {
@@ -1493,7 +1493,7 @@ section.clients {
 
 .clients .box ul.items li.gedu {
     top: 300px;
-    background: url(../Images/clients.png) no-repeat -2300px 0px;
+    background: url(../images/clients.png) no-repeat -2300px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1502,7 +1502,7 @@ section.clients {
 }
 
 .clients .box ul.items li.gedu.active {
-    background: url(../Images/clients.png) no-repeat -2300px -150px;
+    background: url(../images/clients.png) no-repeat -2300px -150px;
 }
 
 .clients.active .box ul.items li.gedu {
@@ -1511,7 +1511,7 @@ section.clients {
 
 .clients .box ul.items li.bgg {
     top: -700px;
-    background: url(../Images/clients.png) no-repeat -2530px 0px;
+    background: url(../images/clients.png) no-repeat -2530px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1520,7 +1520,7 @@ section.clients {
 }
 
 .clients .box ul.items li.bgg.active {
-    background: url(../Images/clients.png) no-repeat -2530px -150px;
+    background: url(../images/clients.png) no-repeat -2530px -150px;
 }
 
 .clients.active .box ul.items li.bgg {
@@ -1529,7 +1529,7 @@ section.clients {
 
 .clients .box ul.items li.bsec {
     top: 300px;
-    background: url(../Images/clients.png) no-repeat -2760px 0px;
+    background: url(../images/clients.png) no-repeat -2760px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1538,7 +1538,7 @@ section.clients {
 }
 
 .clients .box ul.items li.bsec.active {
-    background: url(../Images/clients.png) no-repeat -2760px -150px;
+    background: url(../images/clients.png) no-repeat -2760px -150px;
 }
 
 .clients.active .box ul.items li.bsec {
@@ -1547,7 +1547,7 @@ section.clients {
 
 .clients .box ul.items li.huadan {
     top: -700px;
-    background: url(../Images/clients.png) no-repeat -2990px 0px;
+    background: url(../images/clients.png) no-repeat -2990px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1556,7 +1556,7 @@ section.clients {
 }
 
 .clients .box ul.items li.huadan.active {
-    background: url(../Images/clients.png) no-repeat -2990px -150px;
+    background: url(../images/clients.png) no-repeat -2990px -150px;
 }
 
 .clients.active .box ul.items li.huadan {
@@ -1565,7 +1565,7 @@ section.clients {
 
 .clients .box ul.items li.zd {
     top: 300px;
-    background: url(../Images/clients.png) no-repeat -3220px 0px;
+    background: url(../images/clients.png) no-repeat -3220px 0px;
     -webkit-transition: all .8s ease-in-out 0s;
     -moz-transition: all .8s ease-in-out 0s;
     -ms-transition: all .8s ease-in-out 0s;
@@ -1574,7 +1574,7 @@ section.clients {
 }
 
 .clients .box ul.items li.zd.active {
-    background: url(../Images/clients.png) no-repeat -3220px -150px;
+    background: url(../images/clients.png) no-repeat -3220px -150px;
 }
 
 .clients.active .box ul.items li.zd {
@@ -1623,7 +1623,7 @@ section.clients {
 }
 
 section.quality {
-    background: url(../Images/wallpaper5.jpg) 50% 10%;
+    background: url(../images/wallpaper5.jpg) 50% 10%;
 }
 
 .quality .box {
@@ -1658,7 +1658,7 @@ section.quality {
     margin-bottom: 20px;
     width: 240px;
     height: 37px;
-    background: url(../Images/words.png) no-repeat 0px -576px;
+    background: url(../images/words.png) no-repeat 0px -576px;
 }
 
 .quality .box .caption span {
@@ -1733,61 +1733,61 @@ section.quality {
 .quality .box .swiper-slide ul li.mobi {
     width: 14px;
     height: 27px;
-    background: url(../Images/icons.png) no-repeat 0px -264px;
+    background: url(../images/icons.png) no-repeat 0px -264px;
 }
 
 .quality .box .swiper-slide ul li.pad {
     width: 29px;
     height: 23px;
-    background: url(../Images/icons.png) no-repeat -71px -264px;
+    background: url(../images/icons.png) no-repeat -71px -264px;
 }
 
 .quality .box .swiper-slide ul li.pc {
     width: 35px;
     height: 27px;
-    background: url(../Images/icons.png) no-repeat 0px -303px;
+    background: url(../images/icons.png) no-repeat 0px -303px;
 }
 
 .quality .box .swiper-slide ul li.windows {
     width: 27px;
     height: 27px;
-    background: url(../Images/icons.png) no-repeat -73px -304px;
+    background: url(../images/icons.png) no-repeat -73px -304px;
 }
 
 .quality .box .swiper-slide ul li.ios {
     width: 24px;
     height: 30px;
-    background: url(../Images/icons.png) no-repeat 0px -344px;
+    background: url(../images/icons.png) no-repeat 0px -344px;
 }
 
 .quality .box .swiper-slide ul li.andriod {
     width: 28px;
     height: 29px;
-    background: url(../Images/icons.png) no-repeat -72px -345px;
+    background: url(../images/icons.png) no-repeat -72px -345px;
 }
 
 .quality .box .swiper-slide ul li.ie {
     width: 28px;
     height: 28px;
-    background: url(../Images/icons.png) no-repeat 0px -392px;
+    background: url(../images/icons.png) no-repeat 0px -392px;
 }
 
 .quality .box .swiper-slide ul li.chrome {
     width: 30px;
     height: 30px;
-    background: url(../Images/icons.png) no-repeat -71px -392px;
+    background: url(../images/icons.png) no-repeat -71px -392px;
 }
 
 .quality .box .swiper-slide ul li.firefox {
     width: 32px;
     height: 30px;
-    background: url(../Images/icons.png) no-repeat 0px -432px;
+    background: url(../images/icons.png) no-repeat 0px -432px;
 }
 
 .quality .box .swiper-slide ul li.safari {
     width: 30px;
     height: 32px;
-    background: url(../Images/icons.png) no-repeat -71px -432px;
+    background: url(../images/icons.png) no-repeat -71px -432px;
 }
 
 .quality .box .swiper-slide ul li span {
@@ -1843,7 +1843,7 @@ section.quality {
 }
 
 section.marketing {
-    background: url(../Images/wallpaper6.jpg) 50% 45%;
+    background: url(../images/wallpaper6.jpg) 50% 45%;
 }
 
 .marketing .box {
@@ -1881,7 +1881,7 @@ section.marketing {
     margin-bottom: 20px;
     width: 240px;
     height: 37px;
-    background: url(../Images/words.png) no-repeat right -576px;
+    background: url(../images/words.png) no-repeat right -576px;
 }
 
 .marketing .box .caption span {
@@ -1947,7 +1947,7 @@ section.marketing {
 .marketing .box ul.items li.se i {
     width: 110px;
     height: 110px;
-    background: url(../Images/jaso.jpg) no-repeat; 
+    background: url(../images/jaso.jpg) no-repeat; 
     border-radius: 50%;
     /*background: #000;*/
     
@@ -1966,7 +1966,7 @@ section.marketing {
     height: 110px;
    
     /*background: #000;*/
-    background: url(../Images/Axhello.png) no-repeat; 
+    background: url(../images/Axhello.png) no-repeat; 
     border-radius: 50%;
 }
 .marketing .box ul.items li.weixin:hover i{
@@ -1980,18 +1980,18 @@ section.marketing {
 }
 .marketing .box ul.items li.weibo i {
     width: 68px;
-    background: url(../Images/words.png) no-repeat -288px -630px;
+    background: url(../images/words.png) no-repeat -288px -630px;
 }
 
 .marketing .box ul.items li.sms i {
     width: 61px;
-    background: url(../Images/words.png) no-repeat -366px -628px;
+    background: url(../images/words.png) no-repeat -366px -628px;
 }
 
 .marketing .box ul.items li.pay i {
     width: 110px;
     height: 110px;
-    /* background: url(../Images/words.png) no-repeat -144px -632px; */
+    /* background: url(../images/words.png) no-repeat -144px -632px; */
     border-radius: 50%;
     background: #000;
     box-shadow: 0 0 10px rgba(0,0,0,.5);
@@ -2000,7 +2000,7 @@ section.marketing {
 .marketing .box ul.items li.bbs i {
     width: 110px;
     height: 110px;
-    /* background: url(../Images/words.png) no-repeat -144px -632px; */
+    /* background: url(../images/words.png) no-repeat -144px -632px; */
     border-radius: 50%;
     background: #000;
     box-shadow: 0 0 10px rgba(0,0,0,.5);
@@ -2011,7 +2011,7 @@ section.marketing {
     position: absolute;
     width: 128px;
     height: 128px;
-    background: url(../Images/words.png) no-repeat 0px -624px;
+    background: url(../images/words.png) no-repeat 0px -624px;
     -webkit-transition: all .5s ease-in-out 0s;
     -moz-transition: all .5s ease-in-out 0s;
     -ms-transition: all .5s ease-in-out 0s;
@@ -2069,7 +2069,7 @@ section.marketing {
 
 section.aboutus {
     position: relative;
-    background: url(../Images/wallpaper7.jpg) 50% 60%;
+    background: url(../images/wallpaper7.jpg) 50% 60%;
     -moz-background-size: cover;
     background-size: cover;
 }
@@ -2207,7 +2207,7 @@ section.aboutus {
     line-height: 35px;
     padding-left: 30px;
     list-style: none;
-    background: url(../Images/point.png) no-repeat 0px 13px;
+    background: url(../images/point.png) no-repeat 0px 13px;
 }
 
 .aboutus .items .swiper-slide.nth3 ul li u {
@@ -2291,7 +2291,7 @@ section.aboutus {
 
 section.contact {
     position: relative;
-    background: url(../Images/wallpaper8.jpg) 50% bottom;
+    background: url(../images/wallpaper8.jpg) 50% bottom;
     -moz-background-size: cover;
     background-size: cover;
 }
@@ -2343,7 +2343,7 @@ section.contact {
     width: 243px;
     height: 37px;
     text-decoration: none;
-    background: url(../Images/words.png) no-repeat 0px -877px;
+    background: url(../images/words.png) no-repeat 0px -877px;
 }
 
 .contact .box .above .left p {
@@ -2398,7 +2398,7 @@ section.contact {
     margin: 0 auto;
     width: 424px;
     height: 86px;
-    background: url(../Images/words.png) no-repeat 0px -787px;
+    background: url(../images/words.png) no-repeat 0px -787px;
     -moz-opacity: 0;
     opacity: 0;
     -webkit-transition: all .6s ease-in-out 0s;
@@ -2455,7 +2455,7 @@ section.contact {
     position: relative;
     width: 50px;
     height: 50px;
-    background: url(../Images/icons.png) no-repeat;
+    background: url(../images/icons.png) no-repeat;
     cursor: pointer;
     -webkit-transition: all .3s ease-in-out 0s;
     -moz-transition: all .3s ease-in-out 0s;
@@ -2575,7 +2575,7 @@ section.contact {
     right: 11px;
     width: 26px;
     height: 26px;
-    background: url(../Images/icons.png) no-repeat 0px -640px;
+    background: url(../images/icons.png) no-repeat 0px -640px;
     cursor: pointer;
     -webkit-transition-delay: .15s;
     -moz-transition-delay: .15s;
@@ -2725,7 +2725,7 @@ section.contact {
         right: 223px;
         width: 15px;
         height: 21px;
-        background: url(../Images/icons.png) no-repeat 0px -34px;
+        background: url(../images/icons.png) no-repeat 0px -34px;
     }
 }
 
@@ -2770,13 +2770,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     div.welcome {
-        background: url(../Images/welcome_h800.jpg) 30% 80%;
+        background: url(../images/welcome_h800.jpg) 30% 80%;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     div.welcome {
-        background: url(../Images/welcome_h600.jpg) 30% 80%;
+        background: url(../images/welcome_h600.jpg) 30% 80%;
     }
 }
 
@@ -2789,7 +2789,7 @@ section.contact {
         left: 50%;
         margin-top: -110px;
         margin-left: -109px;
-        background: url(../Images/welcome_words_mini.png) no-repeat;
+        background: url(../images/welcome_words_mini.png) no-repeat;
     }
 }
 
@@ -2806,13 +2806,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     .video .swiper-container .nth1 {
-        background: url(../Images/wallpaper1_1_h800.jpg) 50% 35%;
+        background: url(../images/wallpaper1_1_h800.jpg) 50% 35%;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     .video .swiper-container .nth1 {
-        background: url(../Images/wallpaper1_1_h600.jpg) 50% 35%;
+        background: url(../images/wallpaper1_1_h600.jpg) 50% 35%;
     }
 }
 
@@ -2835,7 +2835,7 @@ section.contact {
         width: 74px;
         height: 139px;
         left: -150px;
-        background: url(../Images/words_mini.png) no-repeat top right;
+        background: url(../images/words_mini.png) no-repeat top right;
     }
     .video .swiper-container .nth1 .box .right {
         margin-top: 8px;
@@ -2848,7 +2848,7 @@ section.contact {
         width: 203px;
         height: 40px;
         margin: 3px 0px 5px 0px;
-        background: url(../Images/words_mini.png) no-repeat;
+        background: url(../images/words_mini.png) no-repeat;
     }
     .video .swiper-container .nth1 .box .right p {
         font-size: 12px;
@@ -2859,13 +2859,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     .video .swiper-container .nth2 {
-        background: url(../Images/wallpaper1_2_h800.jpg) 50% 20%;
+        background: url(../images/wallpaper1_2_h800.jpg) 50% 20%;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     .video .swiper-container .nth2 {
-        background: url(../Images/wallpaper1_2_h600.jpg) 50% 20%;
+        background: url(../images/wallpaper1_2_h600.jpg) 50% 20%;
     }
 }
 
@@ -2893,7 +2893,7 @@ section.contact {
         height: 40px;
         margin-top: 8px;
         margin-bottom: 5px;
-        background: url(../Images/words_mini.png) no-repeat 0px -45px;
+        background: url(../images/words_mini.png) no-repeat 0px -45px;
     }
     .video .swiper-container .nth2 .box p {
         font-size: 12px;
@@ -2904,13 +2904,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     .video .swiper-container .nth3 {
-        background: url(../Images/wallpaper1_3_h800.jpg) 50% center;
+        background: url(../images/wallpaper1_3_h800.jpg) 50% center;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     .video .swiper-container .nth3 {
-        background: url(../Images/wallpaper1_3_h600.jpg) 50% center;
+        background: url(../images/wallpaper1_3_h600.jpg) 50% center;
     }
 }
 
@@ -2925,7 +2925,7 @@ section.contact {
         width: 216px;
         height: 40px;
         margin-top: 10px;
-        background: url(../Images/words_mini.png) no-repeat 0px -131px;
+        background: url(../images/words_mini.png) no-repeat 0px -131px;
     }
     .video .swiper-container .nth3 .box .bottom {
         font-size: 12px;
@@ -2936,13 +2936,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     .video .swiper-container .nth4 {
-        background: url(../Images/wallpaper1_4_h800.jpg) 50% top;
+        background: url(../images/wallpaper1_4_h800.jpg) 50% top;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     .video .swiper-container .nth4 {
-        background: url(../Images/wallpaper1_4_h600.jpg) 50% top;
+        background: url(../images/wallpaper1_4_h600.jpg) 50% top;
     }
 }
 
@@ -2953,7 +2953,7 @@ section.contact {
     .video .swiper-container .nth4 .box .top i {
         width: 143px;
         height: 38px;
-        background: url(../Images/words_mini.png) no-repeat 0px -88px;
+        background: url(../images/words_mini.png) no-repeat 0px -88px;
     }
     .video .swiper-container .nth4 .box .bottom {
         font-size: 12px;
@@ -3237,27 +3237,27 @@ section.contact {
     .business .box ul.items li.pc i {
         width: 46px;
         height: 35px;
-        background: url(../Images/words_mini.png) no-repeat -145px -217px;
+        background: url(../images/words_mini.png) no-repeat -145px -217px;
     }
     .business .box ul.items li.mobi i {
         width: 46px;
         height: 39px;
-        background: url(../Images/words_mini.png) no-repeat -245px -176px;
+        background: url(../images/words_mini.png) no-repeat -245px -176px;
     }
     .business .box ul.items li.sys i {
         width: 46px;
         height: 35px;
-        background: url(../Images/words_mini.png) no-repeat -249px -220px;
+        background: url(../images/words_mini.png) no-repeat -249px -220px;
     }
     .business .box ul.items li.app i {
         width: 46px;
         height: 41px;
-        background: url(../Images/words_mini.png) no-repeat -146px -264px;
+        background: url(../images/words_mini.png) no-repeat -146px -264px;
     }
     .business .box ul.items li.host i {
         width: 47px;
         height: 38px;
-        background: url(../Images/words_mini.png) no-repeat -253px -266px;
+        background: url(../images/words_mini.png) no-repeat -253px -266px;
     }
     .business .box ul.items li p {
         display: none;
@@ -3266,19 +3266,19 @@ section.contact {
         margin-left: 15px;
     }
     .business .box ul.items li.pc:hover i {
-        background: url(../Images/words_mini.png) no-repeat -100px -217px;
+        background: url(../images/words_mini.png) no-repeat -100px -217px;
     }
     .business .box ul.items li.mobi:hover i {
-        background: url(../Images/words_mini.png) no-repeat -201px -176px;
+        background: url(../images/words_mini.png) no-repeat -201px -176px;
     }
     .business .box ul.items li.sys:hover i {
-        background: url(../Images/words_mini.png) no-repeat -196px -220px;
+        background: url(../images/words_mini.png) no-repeat -196px -220px;
     }
     .business .box ul.items li.app:hover i {
-        background: url(../Images/words_mini.png) no-repeat -100px -264px;
+        background: url(../images/words_mini.png) no-repeat -100px -264px;
     }
     .business .box ul.items li.host:hover i {
-        background: url(../Images/words_mini.png) no-repeat -201px -266px;
+        background: url(../images/words_mini.png) no-repeat -201px -266px;
     }
 }
 
@@ -3429,13 +3429,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     section.cases {
-        background: url(../Images/wallpaper3_h800.jpg);
+        background: url(../images/wallpaper3_h800.jpg);
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     section.cases {
-        background: url(../Images/wallpaper3_h600.jpg);
+        background: url(../images/wallpaper3_h600.jpg);
     }
 }
 
@@ -3613,11 +3613,11 @@ section.contact {
     }
     .cases .box a.prev {
         left: 30px;
-        background: url(../Images/icons.png) no-repeat 0px -219px;
+        background: url(../images/icons.png) no-repeat 0px -219px;
     }
     .cases .box a.next {
         right: 30px;
-        background: url(../Images/icons.png) no-repeat -25px -219px;
+        background: url(../images/icons.png) no-repeat -25px -219px;
     }
 }
 
@@ -3726,13 +3726,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     section.clients {
-        background: url(../Images/wallpaper4_h800.jpg) 50% 90%;
+        background: url(../images/wallpaper4_h800.jpg) 50% 90%;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     section.clients {
-        background: url(../Images/wallpaper4_h600.jpg) 50% 90%;
+        background: url(../images/wallpaper4_h600.jpg) 50% 90%;
     }
 }
 
@@ -3816,7 +3816,7 @@ section.contact {
         float: left;
         width: 200px;
         padding: 8px 0 8px 40px;
-        background: url(../Images/point.png) no-repeat 20px 15px;
+        background: url(../images/point.png) no-repeat 20px 15px;
         z-index: 20;
     }
     .clients .box ul.mini li.bg.all {
@@ -3920,13 +3920,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     section.quality {
-        background: url(../Images/wallpaper5_h800.jpg) 50% 10%;
+        background: url(../images/wallpaper5_h800.jpg) 50% 10%;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     section.quality {
-        background: url(../Images/wallpaper5_h600.jpg) 50% 10%;
+        background: url(../images/wallpaper5_h600.jpg) 50% 10%;
     }
 }
 
@@ -3962,11 +3962,11 @@ section.contact {
     }
     .quality .box a.prev {
         left: 30px;
-        background: url(../Images/icons.png) no-repeat 0px -219px;
+        background: url(../images/icons.png) no-repeat 0px -219px;
     }
     .quality .box a.next {
         right: 30px;
-        background: url(../Images/icons.png) no-repeat -25px -219px;
+        background: url(../images/icons.png) no-repeat -25px -219px;
     }
 }
 
@@ -4030,13 +4030,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     section.marketing {
-        background: url(../Images/wallpaper6_h800.jpg) 50% 45%;
+        background: url(../images/wallpaper6_h800.jpg) 50% 45%;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     section.marketing {
-        background: url(../Images/wallpaper6_h600.jpg) 50% 45%;
+        background: url(../images/wallpaper6_h600.jpg) 50% 45%;
     }
 }
 
@@ -4144,34 +4144,34 @@ section.contact {
     .marketing .box ul.items li.se i {
         width: 110px;
         height: 110px;
-        /* background: url(../Images/words.png) no-repeat -144px -632px; */
+        /* background: url(../images/words.png) no-repeat -144px -632px; */
         border-radius: 50%;
         background: #000;
         box-shadow: 0 0 5px rgba(0,0,0,.5);
     }
     .marketing .box ul.items li.weixin i {
         width: 45px;
-        background: url(../Images/words_mini.png) no-repeat -124px -377px;
+        background: url(../images/words_mini.png) no-repeat -124px -377px;
     }
     .marketing .box ul.items li.weibo i {
         width: 42px;
         margin: 0 1px 0 2px;
-        background: url(../Images/words_mini.png) no-repeat -172px -377px;
+        background: url(../images/words_mini.png) no-repeat -172px -377px;
     }
     .marketing .box ul.items li.sms i {
         width: 38px;
         margin: 0 3px 0 4px;
-        background: url(../Images/words_mini.png) no-repeat -219px -374px;
+        background: url(../images/words_mini.png) no-repeat -219px -374px;
     }
     .marketing .box ul.items li.pay i {
         width: 34px;
         margin: 0 5px 0 6px;
-        background: url(../Images/words_mini.png) no-repeat -263px -382px;
+        background: url(../images/words_mini.png) no-repeat -263px -382px;
     }
     .marketing .box ul.items li.bbs i {
         width: 31px;
         margin: 0 7px;
-        background: url(../Images/words_mini.png) no-repeat -86px -422px;
+        background: url(../images/words_mini.png) no-repeat -86px -422px;
     }
     .marketing .box ul.items li strong,
     .marketing.active .box ul.items li strong {
@@ -4290,13 +4290,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     section.aboutus {
-        background: url(../Images/wallpaper7_h800.jpg) 50% 60%;
+        background: url(../images/wallpaper7_h800.jpg) 50% 60%;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     section.aboutus {
-        background: url(../Images/wallpaper7_h600.jpg) 50% 60%;
+        background: url(../images/wallpaper7_h600.jpg) 50% 60%;
     }
 }
 
@@ -4597,13 +4597,13 @@ section.contact {
 
 @media (max-width:1280px) and (max-height:800px) {
     section.contact {
-        background: url(../Images/wallpaper8_h800.jpg) 50% bottom;
+        background: url(../images/wallpaper8_h800.jpg) 50% bottom;
     }
 }
 
 @media (max-width:960px) and (max-height:600px) {
     section.contact {
-        background: url(../Images/wallpaper8_h600.jpg) 50% 10%;
+        background: url(../images/wallpaper8_h600.jpg) 50% 10%;
     }
 }
 
@@ -4707,7 +4707,7 @@ section.contact {
         display: none;
     }
     html {
-        background: url(../Images/displaynone.png) no-repeat 50% top;
+        background: url(../images/displaynone.png) no-repeat 50% top;
         background-color: #333a32;
     }
 }
