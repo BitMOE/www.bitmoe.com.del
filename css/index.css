@@ -1944,15 +1944,16 @@ section.marketing {
     opacity: 1;
   }
 }
-.marketing .box ul.items li.se i {
+
+.marketing .box ul.items li.haowei i {
     width: 110px;
     height: 110px;
-    background: url(../images/jaso.jpg) no-repeat; 
+    background: url(../images/haowei.jpg) no-repeat; 
     border-radius: 50%;
     /*background: #000;*/
     
 }
-.marketing .box ul.items li.se:hover i{
+.marketing .box ul.items li.haowei:hover i{
     box-shadow: 0 0 10px rgba(0,0,0,.5);
     -webkit-animation: rotateIn 1.5s;
     animation: rotateIn 1.5s;
@@ -1961,15 +1962,70 @@ section.marketing {
     -o-transition: all .5s linear;
     transition: all .5s linear;
 }
-.marketing .box ul.items li.weixin i {
+
+.marketing .box ul.items li.lcx i {
+    width: 110px;
+    height: 110px;
+    background: url(../images/lcx.jpg) no-repeat; 
+    border-radius: 50%;
+    /*background: #000;*/
+    
+}
+.marketing .box ul.items li.lcx:hover i{
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    -webkit-animation: rotateIn 1.5s;
+    animation: rotateIn 1.5s;
+
+    -webkit-transition: all .5s linear;
+    -o-transition: all .5s linear;
+    transition: all .5s linear;
+}
+
+.marketing .box ul.items li.an i {
+    width: 110px;
+    height: 110px;
+    background: url(../images/an.jpg) no-repeat; 
+    border-radius: 50%;
+    /*background: #000;*/
+    
+}
+.marketing .box ul.items li.an:hover i{
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    -webkit-animation: rotateIn 1.5s;
+    animation: rotateIn 1.5s;
+
+    -webkit-transition: all .5s linear;
+    -o-transition: all .5s linear;
+    transition: all .5s linear;
+}
+
+
+.marketing .box ul.items li.laoqi i {
+    width: 110px;
+    height: 110px;
+    background: url(../images/laoqi.jpg) no-repeat; 
+    border-radius: 50%;
+    /*background: #000;*/
+    
+}
+.marketing .box ul.items li.laoqi:hover i{
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    -webkit-animation: rotateIn 1.5s;
+    animation: rotateIn 1.5s;
+
+    -webkit-transition: all .5s linear;
+    -o-transition: all .5s linear;
+    transition: all .5s linear;
+}
+.marketing .box ul.items li.sai i {
     width: 110px;
     height: 110px;
    
     /*background: #000;*/
-    background: url(../images/Axhello.png) no-repeat; 
+    background: url(../images/sai.jpg) no-repeat; 
     border-radius: 50%;
 }
-.marketing .box ul.items li.weixin:hover i{
+.marketing .box ul.items li.sai:hover i{
     box-shadow: 0 0 10px rgba(0,0,0,.5);
     -webkit-animation: rotateIn 1.5s;
     animation: rotateIn 1.5s;
@@ -1978,14 +2034,58 @@ section.marketing {
     -o-transition: all .5s linear;
     transition: all .5s linear;
 }
-.marketing .box ul.items li.weibo i {
-    width: 68px;
-    background: url(../images/words.png) no-repeat -288px -630px;
+.marketing .box ul.items li.liu:hover i{
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    -webkit-animation: rotateIn 1.5s;
+    animation: rotateIn 1.5s;
+
+    -webkit-transition: all .5s linear;
+    -o-transition: all .5s linear;
+    transition: all .5s linear;
+}
+.marketing .box ul.items li.liu i {
+    width: 110px;
+    height: 110px;
+   
+    /*background: #000;*/
+    background: url(../images/liu.jpg) no-repeat; 
+    border-radius: 50%;
 }
 
-.marketing .box ul.items li.sms i {
-    width: 61px;
-    background: url(../images/words.png) no-repeat -366px -628px;
+.marketing .box ul.items li.qist i {
+    width: 110px;
+    height: 110px;
+    background: url(../images/qist.jpg) no-repeat; 
+    border-radius: 50%;
+    /*background: #000;*/
+    
+}
+.marketing .box ul.items li.qist:hover i{
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    -webkit-animation: rotateIn 1.5s;
+    animation: rotateIn 1.5s;
+
+    -webkit-transition: all .5s linear;
+    -o-transition: all .5s linear;
+    transition: all .5s linear;
+}
+
+.marketing .box ul.items li.napolin i {
+    width: 110px;
+    height: 110px;
+    background: url(../images/napolin.jpg) no-repeat; 
+    border-radius: 50%;
+    /*background: #000;*/
+    
+}
+.marketing .box ul.items li.napolin:hover i{
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    -webkit-animation: rotateIn 1.5s;
+    animation: rotateIn 1.5s;
+
+    -webkit-transition: all .5s linear;
+    -o-transition: all .5s linear;
+    transition: all .5s linear;
 }
 
 .marketing .box ul.items li.pay i {
