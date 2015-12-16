@@ -1,6 +1,6 @@
 ﻿@charset "utf-8";
 
-
+/*织梦58 专注好模板分享*/
 
 .swiper-container {
     margin: 0 auto;
@@ -2499,7 +2499,7 @@ section.contact {
     margin: 0 auto;
     width: 424px;
     height: 86px;
-    background: url(https://avatars3.githubusercontent.com/u/16302585?v=3&s=200) no-repeat;
+    background: url(../images/words.png) no-repeat 0px -787px;
     -moz-opacity: 0;
     opacity: 0;
     -webkit-transition: all .6s ease-in-out 0s;
