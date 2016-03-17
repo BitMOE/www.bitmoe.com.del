@@ -8,8 +8,8 @@
 
 # 联系方式
 
-- 联系电话： 400-882-3823
-- Email： WebMaster@BitMoe.Com
+- 联系电话：   
+- Email： webmaster@bitmoe.com
 
 ---
 
