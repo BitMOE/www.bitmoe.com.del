@@ -1,8 +1,8 @@
 # 公司介绍
 
 公司名称： Shenzhen Bitmoe Infomation Technology Co.,Ltd.
-公司网站主页： [https://www.bitmoe.com](https://www.bitmoe.com)  
-公司地址： 上海市浦东陆家嘴世纪大道8号，上海国际金融中心52层LG52-36
+公司网站主页： [https://www.bitmoe.com](https://www.bitmoe.com)
+公司地址： 深圳市南山区蛇口街道南山电子商务创新服务基地G栋A603
 
 ---
 
